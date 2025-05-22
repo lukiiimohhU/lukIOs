@@ -1,14 +1,14 @@
 {
   "name": "lukIOs",
   "identifier": "com.lukIOs",
-  "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+  "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/400x400.jpg",
   "website": "https://lukksss.es",
   "apps": [
     {
       "name": "Prueba",
       "bundleIdentifier": "net.prueba",
       "developerName": "luk",
-      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/400x400.jpg",
       "localizedDescription": "lukDescription",
       "subtitle": "lukSubtitle",
       "tintColor": "#b4745c",
@@ -26,7 +26,7 @@
       "caption": "Nothing to see here",
       "date": "2025-05-06T12:00:00-00:00",
       "tintColor": "#8A28F7",
-      "imageURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+      "imageURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/400x400.jpg",
       "notify": true,
       "url": "https://discord.com/users/279274634346758144"
     }
