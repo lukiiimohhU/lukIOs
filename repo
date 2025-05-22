@@ -1,0 +1,34 @@
+{
+  "name": "lukIOs",
+  "identifier": "com.lukIOs",
+  "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+  "website": "https://lukksss.es",
+  "apps": [
+    {
+      "name": "Prueba",
+      "bundleIdentifier": "net.prueba",
+      "developerName": "luk",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+      "localizedDescription": "lukDescription",
+      "subtitle": "lukSubtitle",
+      "tintColor": "#b4745c",
+      "version": "1.0",
+      "versionDate": "2025-05-06T00:00:00-00:00",
+      "size": 151900000,
+      "downloadURL": "https://github.com/ivillami0005/ziddy/releases/download/05-16-2025/net.kdt.pojavlauncher-3.0-ios.ipa",
+      "appPermissions": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "lukIOs repo files",
+      "identifier": "luk",
+      "caption": "Nothing to see here",
+      "date": "2025-05-06T12:00:00-00:00",
+      "tintColor": "#8A28F7",
+      "imageURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/logor.png",
+      "notify": true,
+      "url": "https://discord.com/users/279274634346758144"
+    }
+  ]
+}
