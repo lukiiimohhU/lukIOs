@@ -5,17 +5,31 @@
   "website": "https://lukksss.es",
   "apps": [
     {
-      "name": "Prueba",
-      "bundleIdentifier": "net.prueba",
+      "name": "Spotify",
+      "bundleIdentifier": "lukios.spotify.com",
       "developerName": "luk",
-      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukiiimohhU.github.io/refs/heads/main/futbol/400x400.jpg",
-      "localizedDescription": "lukDescription",
-      "subtitle": "lukSubtitle1",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg",
+      "localizedDescription": "EeveeSpotify",
+      "subtitle": "EeveeSpotify",
       "tintColor": "#b4745c",
       "version": "1.0",
-      "versionDate": "2025-05-06T00:00:00-00:00",
-      "size": 151900000,
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
       "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.44.ipa",
+      "appPermissions": {}
+    },
+    {
+      "name": "YouTube",
+      "bundleIdentifier": "lukios.youtube.com",
+      "developerName": "luk",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/0/0a/YouTube_social_red_circle_%282024%29.svg",
+      "localizedDescription": "YouTube Plus",
+      "subtitle": "YouTube Plus",
+      "tintColor": "#b4745c",
+      "version": "1.0",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/dayanch96/YTLite/releases/download/v5.2b1/com.dvntm.ytlite_5.2b1_iphoneos-arm64.deb",
       "appPermissions": {}
     }
   ],
