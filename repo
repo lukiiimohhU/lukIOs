@@ -7,7 +7,7 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "lukios.spotify.com",
-      "developerName": "luk",
+      "developerName": "Eevee",
       "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/spotify.png",
       "localizedDescription": "EeveeSpotify",
       "subtitle": "EeveeSpotify",
@@ -21,7 +21,7 @@
     {
       "name": "YouTube",
       "bundleIdentifier": "lukios.youtube.com",
-      "developerName": "luk",
+      "developerName": "luk (?)",
       "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/youtube.png",
       "localizedDescription": "YouTube Plus",
       "subtitle": "YouTube Plus",
@@ -35,7 +35,7 @@
     {
       "name": "Duolingo Max",
       "bundleIdentifier": "lukios.duolingomax.com",
-      "developerName": "luk",
+      "developerName": "CyPwn",
       "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/duolingo.png",
       "localizedDescription": "Duolingo Max",
       "subtitle": "Duolingo Max",
@@ -44,6 +44,34 @@
       "versionDate": "2025-05-22T00:00:00-00:00",
       "size": 0,
       "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
+      "appPermissions": {}
+    },
+  {
+      "name": "Instagram",
+      "bundleIdentifier": "lukios.bhinstagram.com",
+      "developerName": "BandarHL",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/instagram.png",
+      "localizedDescription": "BHInstagram",
+      "subtitle": "BHInstagram",
+      "tintColor": "#405DE6",
+      "version": "1.0",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/BandarHL/BHInstagram/releases/download/1.2/bhinsta_sideloaded.ipa",
+      "appPermissions": {}
+    },
+  {
+      "name": "Scrcpy",
+      "bundleIdentifier": "lukios.scrcpy.com",
+      "developerName": "CyPwn",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/scrcpy.png",
+      "localizedDescription": "Scrcpy Remote",
+      "subtitle": "Scrcpy Remote",
+      "tintColor": "#808080",
+      "version": "1.0",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=be1c5399890cb497befda844ddf9a9bb",
       "appPermissions": {}
     }
   ],
