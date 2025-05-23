@@ -59,6 +59,20 @@
       "size": 0,
       "downloadURL": "https://github.com/BandarHL/BHInstagram/releases/download/1.2/bhinsta_sideloaded.ipa",
       "appPermissions": {}
+    },
+  {
+      "name": "RadarBot",
+      "bundleIdentifier": "lukios.radarbot.com",
+      "developerName": "luk",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/radarbot.png",
+      "localizedDescription": "RadarBot VIP",
+      "subtitle": "RadarBot VIP",
+      "tintColor": "#b6c8e4",
+      "version": "1.0",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Radarbot_9.25_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "appPermissions": {}
     }
   ],
   "news": [
