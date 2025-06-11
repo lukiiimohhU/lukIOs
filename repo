@@ -26,10 +26,10 @@
       "localizedDescription": "YouTube Plus",
       "subtitle": "YouTube Plus",
       "tintColor": "#c4302b",
-      "version": "19497-304",
+      "version": "5.2b1",
       "versionDate": "2025-05-22T00:00:00-00:00",
       "size": 0,
-      "downloadURL": "https://dn720705.ca.archive.org/0/items/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-19497-304.ipa",
+      "downloadURL": "https://github.com/lukiiimohhU/YTLite/releases/download/untagged-fc586d6f3c1cefe13787/YouTubePlus_5.2b1.ipa",
       "appPermissions": {}
     },
     {
@@ -100,6 +100,20 @@
       "versionDate": "2025-05-22T00:00:00-00:00",
       "size": 0,
       "downloadURL": "https://iosninja.wetransfer.com/download/local-bartender?apiBase=%2Fapi%2Fv4&ddProxyBase=https%3A%2F%2Flocal-bartender-dd-proxy.wetransfer.net%2Fapi&transferId=39b321b8b8e37b3e5e9953e122eb5b6720181004095245&secret=2ea501&domainUserId=null&intent=entire_transfer&localStorageId=a3c4923f-3515-44af-b013-d1a9d96af875",
+      "appPermissions": {}
+    },
+  {
+      "name": "Twitch",
+      "bundleIdentifier": "lukios.twitch.com",
+      "developerName": "level3tjg",
+      "iconURL": "https://iosninja.io/img/ipas/twitch-plus.jpg",
+      "localizedDescription": "Twitch AdBlocker",
+      "subtitle": "Twitch AdBlocker",
+      "tintColor": "#6441a5",
+      "version": "23.4-0.1.5",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v23.4-0.1.5/TwitchAdBlock_23.4-0.1.5.ipa",
       "appPermissions": {}
     }
   ],
