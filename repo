@@ -120,7 +120,7 @@
       "name": "Feather",
       "bundleIdentifier": "lukios.feather.com",
       "developerName": "arm64x",
-      "iconURL": "https://github.com/khcrysalis/Feather/blob/1f082ddce57fbce22c23b07c6f40750bfd4d5278/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png?raw=true",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/feather.png",
       "localizedDescription": "Feather Signer",
       "subtitle": "Feather Signer",
       "tintColor": "#6441a5",
