@@ -115,6 +115,20 @@
       "size": 0,
       "downloadURL": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v23.4-0.1.5/TwitchAdBlock_23.4-0.1.5.ipa",
       "appPermissions": {}
+    },
+  {
+      "name": "Feather",
+      "bundleIdentifier": "lukios.feather.com",
+      "developerName": "arm64x",
+      "iconURL": "https://github.com/khcrysalis/Feather/blob/1f082ddce57fbce22c23b07c6f40750bfd4d5278/Feather/Resources/Assets.xcassets/AppIcon.appiconset/feather.png?raw=true",
+      "localizedDescription": "Feather Signer",
+      "subtitle": "Feather Signer",
+      "tintColor": "#6441a5",
+      "version": "2.1.1",
+      "versionDate": "2025-05-22T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/khcrysalis/Feather/releases/download/v2.1.1/Feather.ipa",
+      "appPermissions": {}
     }
   ],
   "news": [
