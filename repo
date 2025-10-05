@@ -12,10 +12,10 @@
       "localizedDescription": "EeveeSpotify",
       "subtitle": "EeveeSpotify",
       "tintColor": "#1ed760",
-      "version": "5.9.7-9.0.44",
-      "versionDate": "2025-05-22T00:00:00-00:00",
+      "version": "6.1.5",
+      "versionDate": "2025-10-05T00:00:00-00:00",
       "size": 0,
-      "downloadURL": "https://github.com/whoeevee/EeveeSpotify/releases/download/swift5.9.7/EeveeSpotify-5.9.7-9.0.44.ipa",
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/EeveeSpotify-Latest.ipa",
       "appPermissions": {}
     },
     {
@@ -26,10 +26,10 @@
       "localizedDescription": "YouTube Lite Plus",
       "subtitle": "YouTube Lite Plus",
       "tintColor": "#c4302b",
-      "version": "19.34.2-5.0.1",
+      "version": "20.39.6",
       "versionDate": "2025-05-22T00:00:00-00:00",
       "size": 0,
-      "downloadURL": "https://files.catbox.moe/z8jg5n.ipa",
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/YouTubePlus_v20.39.6.ipa",
       "appPermissions": {}
     },
     {
