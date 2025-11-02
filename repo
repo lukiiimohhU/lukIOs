@@ -33,6 +33,20 @@
       "appPermissions": {}
     },
     {
+      "name": "YouTube (B2)",
+      "bundleIdentifier": "lukios.youtube.com",
+      "developerName": "dayanch96",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/youtube.png",
+      "localizedDescription": "YouTube Lite Plus",
+      "subtitle": "YouTube Lite Plus",
+      "tintColor": "#c4302b",
+      "version": "20.10.4",
+      "versionDate": "2025-07-26T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/YTPlus_5.2b2_20.10.4.ipa",
+      "appPermissions": {}
+    },
+    {
       "name": "Duolingo Max",
       "bundleIdentifier": "lukios.duolingomax.com",
       "developerName": "CyPwn",
@@ -46,8 +60,8 @@
       "downloadURL": "https://ipa.cypwn.xyz/serve/get.php?md5=598df6aea418403e45dbeb424c3334c4",
       "appPermissions": {}
     },
-  {
-      "name": "Instagram",
+    {
+      "name": "Instagram (BH)",
       "bundleIdentifier": "lukios.bhinstagram.com",
       "developerName": "BandarHL",
       "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/instagram1.png",
@@ -60,7 +74,21 @@
       "downloadURL": "https://github.com/BandarHL/BHInstagram/releases/download/1.2/bhinsta_sideloaded.ipa",
       "appPermissions": {}
     },
-  {
+    {
+      "name": "Instagram (SC)",
+      "bundleIdentifier": "lukios.scinstagram.com",
+      "developerName": "BandarHL - Forked by SoCuul",
+      "iconURL": "https://raw.githubusercontent.com/lukiiimohhU/lukIOs/refs/heads/main/logos/instagram1.png",
+      "localizedDescription": "SCInstagram",
+      "subtitle": "SCInstagram",
+      "tintColor": "#405DE6",
+      "version": "0.8",
+      "versionDate": "2025-11-02T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/SCInsta_v0.8.0_i403.0.0.ipa",
+      "appPermissions": {}
+    },
+    {
       "name": "RadarBot",
       "bundleIdentifier": "lukios.radarbot.com",
       "developerName": "luk",
@@ -74,7 +102,7 @@
       "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-05-2025/Radarbot_9.25_Gold_%40thisismanpreets_apptesters.org.ipa",
       "appPermissions": {}
     },
-  {
+    {
       "name": "GeometryDash",
       "bundleIdentifier": "lukios.geometrydash.com",
       "developerName": "iOSVizor",
@@ -88,7 +116,7 @@
       "downloadURL": "https://dl.iosvizor.net/geometry-dash/Geometry-Dash-v2.206-iosvizor.ipa",
       "appPermissions": {}
     },
-  {
+    {
       "name": "FlappyBird",
       "bundleIdentifier": "lukios.flappybird.com",
       "developerName": "iOSNinja",
@@ -102,7 +130,7 @@
       "downloadURL": "https://iosninja.wetransfer.com/download/local-bartender?apiBase=%2Fapi%2Fv4&ddProxyBase=https%3A%2F%2Flocal-bartender-dd-proxy.wetransfer.net%2Fapi&transferId=39b321b8b8e37b3e5e9953e122eb5b6720181004095245&secret=2ea501&domainUserId=null&intent=entire_transfer&localStorageId=a3c4923f-3515-44af-b013-d1a9d96af875",
       "appPermissions": {}
     },
-  {
+    {
       "name": "Twitch",
       "bundleIdentifier": "lukios.twitch.com",
       "developerName": "level3tjg",
@@ -116,7 +144,7 @@
       "downloadURL": "https://github.com/level3tjg/TwitchAdBlock/releases/download/v23.4-0.1.5/TwitchAdBlock_23.4-0.1.5.ipa",
       "appPermissions": {}
     },
-  {
+    {
       "name": "Feather",
       "bundleIdentifier": "lukios.feather.com",
       "developerName": "arm64x",
