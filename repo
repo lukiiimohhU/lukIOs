@@ -12,10 +12,10 @@
       "localizedDescription": "EeveeSpotify",
       "subtitle": "EeveeSpotify",
       "tintColor": "#1ed760",
-      "version": "9.0.91",
+      "version": "9.0.96",
       "versionDate": "2025-11-02T00:00:00-00:00",
       "size": 0,
-      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/EeveeSpotify_v9.0.91.ipa",
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/EeveeSpotify_v9.0.96.ipa",
       "appPermissions": {}
     },
     {
@@ -114,6 +114,20 @@
       "versionDate": "2025-05-22T00:00:00-00:00",
       "size": 0,
       "downloadURL": "https://dl.iosvizor.net/geometry-dash/Geometry-Dash-v2.206-iosvizor.ipa",
+      "appPermissions": {}
+    },
+    {
+      "name": "Amethyst Launcher (Minecraft)",
+      "bundleIdentifier": "lukios.amethystlauncher.com",
+      "developerName": "AngelAuraMC",
+      "iconURL": "https://github.com/AngelAuraMC/Amethyst-iOS/blob/cd000a30403595f1856c07bee32e135803963d50/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+      "localizedDescription": "Tweak of Pojav Launcher (Amethyst)",
+      "subtitle": "Tweak of Pojav Launcher (Amethyst)",
+      "tintColor": "#7502f1",
+      "version": "1.0",
+      "versionDate": "2025-11-19T00:00:00-00:00",
+      "size": 0,
+      "downloadURL": "https://github.com/lukiiimohhU/lukIOs/raw/refs/heads/main/iPAs/Amethyst_v1.0.ipa",
       "appPermissions": {}
     },
     {
