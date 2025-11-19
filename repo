@@ -120,7 +120,7 @@
       "name": "Amethyst Launcher (Minecraft)",
       "bundleIdentifier": "lukios.amethystlauncher.com",
       "developerName": "AngelAuraMC",
-      "iconURL": "https://github.com/AngelAuraMC/Amethyst-iOS/blob/cd000a30403595f1856c07bee32e135803963d50/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
+      "iconURL": "https://raw.githubusercontent.com/AngelAuraMC/Amethyst-iOS/cd000a30403595f1856c07bee32e135803963d50/Natives/Assets.xcassets/AppIcon-Dark.appiconset/AppIcon-Dark_1024x1024.png",
       "localizedDescription": "Tweak of Pojav Launcher (Amethyst)",
       "subtitle": "Tweak of Pojav Launcher (Amethyst)",
       "tintColor": "#7502f1",
